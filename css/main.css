@@ -104,7 +104,7 @@ html {
 body {
   font-family: 'Source Sans Pro', sans-serif;
   padding: 2em;
-  font-size: 1.25em;
+  font-size: 0.75em;
   height: 100%;
 }
 
@@ -120,12 +120,13 @@ body {
   color: #fff;
   line-height: 1.5em;
   font-size: 1.6em;
-  background-color: #f16059;
+  background-color: lightslategrey;
   height: 300px;
   display: flex; 
-  width: 30%;
+  width: 28%;
   justify-content: center;
   align-items: center; 
+  padding: 0 20px;
 }
 
 
